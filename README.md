@@ -1,9 +1,9 @@
 # mlprojects
 Free code camp certification project work.
 
-This project uses the Book-Crossings dataset. 
-This dataset contains 1.1 million ratings (scale of 1-10) of 270,000 books by 90,000 users.
-
-After importing and cleaning the data, use NearestNeighbors from sklearn.neighbors to develop a model
-that shows books that are similar to a given book. The Nearest Neighbors algorithm measures distance
-to determine the “closeness” of instances.
+Projects are: 
+1)  classify images of dogs and cats
+2)  create a book recommendation algorithm using K-Nearest Neighbors
+3)  predict healthcare costs using a regression algorithm
+4)  classify SMS messages as either "ham" or "spam"
+5)  create a program to play Rock, Paper, Scissors.
